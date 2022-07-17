@@ -12,3 +12,4 @@
 * - 📫 How to reach me: **sanjidabintesayid7@gmail.com**
 * - ⚡ Fun fact: I love to sleep in my computer desk
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true)
