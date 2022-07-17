@@ -1,5 +1,5 @@
 ### Hi there 👋
-### **SunjidaAkter** is ✨ _special_ ✨
+**SunjidaAkter** is ✨ _special_ ✨
 
 ### Strong points :
  ✔ I like to do web coding, fixing problem, and designing websites. </br>
