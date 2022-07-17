@@ -7,7 +7,9 @@
  ✔ My coding is pixel perfect and also responsive, full, and fresh hand code. </br>
  ✔ I focus on 3 things on every project: Communication, Quality, and Support. </br>
 
-**SunjidaAkter** is ✨ _special_ ✨
+### **SunjidaAkter** is ✨ _special_ ✨
+**Some Special Facts**
+
  - 🔭 I’m currently working on an Ecommerce Project
  - 🌱 I’m currently learning Data Structure & Algorithm
  - 👯 I’m looking to collaborate with other Developers
