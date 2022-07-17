@@ -1,4 +1,5 @@
 ### Hi there 👋
+### **SunjidaAkter** is ✨ _special_ ✨
 
 ### Strong points :
  ✔ I like to do web coding, fixing problem, and designing websites. </br>
@@ -7,7 +8,7 @@
  ✔ My coding is pixel perfect and also responsive, full, and fresh hand code. </br>
  ✔ I focus on 3 things on every project: Communication, Quality, and Support. </br>
 
-### **SunjidaAkter** is ✨ _special_ ✨
+
 **Some Special Facts**
 
  - 🔭 I’m currently working on an Ecommerce Project
