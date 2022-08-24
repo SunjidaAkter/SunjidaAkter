@@ -4,7 +4,6 @@
 ### Strong points :
  ✔ I like to do web coding, fixing problem, and designing websites. </br>
  ✔ I always learn new things about Web Dev regularly as trends go on. </br>
- ✔ My heavy skills are HTML 5, CSS 3, Bootstrap 5 & JavaScript. </br>
  ✔ My coding is pixel perfect and also responsive, full, and fresh hand code. </br>
  ✔ I focus on 3 things on every project: Communication, Quality, and Support. </br>
 
