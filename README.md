@@ -1,6 +1,5 @@
 ### Hi there 👋
 **SunjidaAkter** is ✨ _special_ ✨
-
 ### Strong points :
  ✔ I like to do web coding, fixing problem, and designing websites. </br>
  ✔ I always learn new things about Web Dev regularly as trends go on. </br>
