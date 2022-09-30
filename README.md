@@ -19,7 +19,7 @@
 <!--  [<img src="https://komarev.com/ghpvc/?username=SunjidaAkter&label=Profile%20views&color=0e75b6&style=flat" alt="Sunjida" >](https://github.com/SunjidaAkter)</br> -->
 
 <div align="center">
-<a href="https://github.com/SunjidaAkter"><img align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'/></a>
+<a href="https://github.com/SunjidaAkter"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'/></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanjida-akter-6804bb215//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 <a href="https://www.facebook.com/profile.php?id=100009981699138"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
 <a href="https://www.instagram.com/sunjidaaktermonika/?next=%2F"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
