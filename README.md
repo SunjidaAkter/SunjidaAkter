@@ -1,5 +1,6 @@
 ### Hi there 👋
-**SunjidaAkter** is ✨ _special_ ✨
+**SunjidaAkter** is ✨ _special_ ✨</br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)</br>
 ### Strong points :
  ✔ I like to do web coding, fixing problem, and designing websites. </br>
  ✔ I always learn new things about Web Dev regularly as trends go on. </br>
