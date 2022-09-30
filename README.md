@@ -27,7 +27,7 @@
 <a href="https://twitter.com/i/Sunjida"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
 <a href="https://magnificent-frangollo-5e9566.netlify.app/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
 </div>
-</br>
+
 ## :chart_with_upwards_trend: Current Stats   
 </br>
 <p align="left">
