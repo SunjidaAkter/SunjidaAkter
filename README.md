@@ -18,6 +18,18 @@
  - ⚡ Fun fact: I love to sleep in my computer desk
  - 😄 Pronouns: She/Her</br>
 <!--  [<img src="https://komarev.com/ghpvc/?username=SunjidaAkter&label=Profile%20views&color=0e75b6&style=flat" alt="Sunjida" >](https://github.com/SunjidaAkter)</br> -->
+
+## :mailbox: Reach me out
+</br>
+<div align="left">
+<a href="https://github.com/SunjidaAkter"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'/></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanjida-akter-6804bb215//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'></a>
+<a href="https://www.facebook.com/profile.php?id=100009981699138"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'></a>
+<a href="https://www.instagram.com/sunjidaaktermonika/?next=%2F"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'></a>
+<a href="https://twitter.com/i/Sunjida"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='50'></a>
+<a href="https://magnificent-frangollo-5e9566.netlify.app/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='50'></a>
+</div>
+
 ## :computer: Technologies that I know
 <br>
 <div align="left">
@@ -29,17 +41,6 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-</div>
-
-## :mailbox: Reach me out
-</br>
-<div align="left">
-<a href="https://github.com/SunjidaAkter"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'/></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanjida-akter-6804bb215//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
-<a href="https://www.facebook.com/profile.php?id=100009981699138"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
-<a href="https://www.instagram.com/sunjidaaktermonika/?next=%2F"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
-<a href="https://twitter.com/i/Sunjida"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
-<a href="https://magnificent-frangollo-5e9566.netlify.app/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
 </div>
 
 ## :chart_with_upwards_trend: Current Stats   
