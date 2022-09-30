@@ -1,13 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 **SunjidaAkter** is ✨ _special_ ✨</br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SunjidaAkter)
-### Strong points :
+## Strong points :
  ✔ I like to do web coding, fixing problem, and designing websites. </br>
  ✔ I always learn new things about Web Dev regularly as trends go on. </br>
  ✔ My coding is pixel perfect and also responsive, full, and fresh hand code. </br>
  ✔ I focus on 3 things on every project: Communication, Quality, and Support. </br>
 
-###**Some Special Facts**<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Some Special Facts<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
  - 🔭 I’m currently working on an Ecommerce Project
  - 🌱 I’m currently learning Data Structure & Algorithm
