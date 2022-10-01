@@ -51,7 +51,7 @@
  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&bg_color=0D1117&icon_color=00DD4C&text_color=FFFFFF&title_color=00DD4C&dates=6E6E6E" />
  
 </p>
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true&theme=dark) -->
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
