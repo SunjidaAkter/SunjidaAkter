@@ -9,7 +9,7 @@
 <img src="https://giphy.com/embed/qEqiI3Oq7vBkoE236M" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-codingspace-qEqiI3Oq7vBkoE236M">via GIPHY</a></p>
  -->
  
-
+<img src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200">
 ![I am a Junior developer. ]([https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif])
 
 ## Some Special Facts<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
