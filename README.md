@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋<img src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="150">
 
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
+<!--<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></a>
+</div>-->
 
 
 **SunjidaAkter** is ✨ _special_ ✨</br>
