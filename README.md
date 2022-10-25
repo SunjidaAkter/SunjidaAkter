@@ -1,4 +1,4 @@
-## Hi there 👋<img src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="150">
+## Hi there 👋<img src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="50">
 
 <!--<div align="left">
 <a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></a>
