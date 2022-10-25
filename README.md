@@ -1,8 +1,8 @@
-## Hi there 👋<img src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="50">
+## Hi there 👋
 
-<!--<div align="left">
+<div align="left">
 <a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></a>
-</div>-->
+</div>
 
 
 **SunjidaAkter** is ✨ _special_ ✨</br>
