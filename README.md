@@ -1,4 +1,10 @@
 ## Hi there 👋
+
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
+
+
 **SunjidaAkter** is ✨ _special_ ✨</br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SunjidaAkter)
 <!-- ## Strong points :
@@ -11,8 +17,8 @@
  
 <!--<img src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200">
 <img  src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/>-->
-<div><img  src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></div>
-<div><img  src="https://i.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.webp"  alt="Sunjida Akter"/></div>
+<!--<div><img  src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></div>
+<div><img  src="https://i.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.webp"  alt="Sunjida Akter"/></div>-->
 ## :eyes: Some Special Facts<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <div align="left">
