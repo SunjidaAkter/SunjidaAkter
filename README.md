@@ -10,12 +10,14 @@
  -->
  
 <img src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/></a>
 
 ## :eyes: Some Special Facts<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <div align="left">
+ <a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/></a>
  <a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></a>
-<a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/></a>
+<!--<a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/></a>-->
 </div>
 
  - 🔭 I’m currently working on an Ecommerce Project
