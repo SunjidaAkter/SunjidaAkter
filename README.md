@@ -9,15 +9,14 @@
 <img src="https://giphy.com/embed/qEqiI3Oq7vBkoE236M" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-codingspace-qEqiI3Oq7vBkoE236M">via GIPHY</a></p>
  -->
  
-<img src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200">
-<img  src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/>
-<a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.webp"  alt="Sunjida Akter"/></a>
- <a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></a>
+<!--<img src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200">
+<img  src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/>-->
+<a href="https://app.daily.dev/mir"><img  src="https://i.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.webp"  alt="Sunjida Akter"/></a>
+ <a href="https://app.daily.dev/mir"><img  src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></a>
 ## :eyes: Some Special Facts<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <div align="left">
- <img src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200">
-<img  src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/>
+ <a align="right" href="https://app.daily.dev/mir"><img  src="https://i.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.webp"  alt="Sunjida Akter"/><img src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></a>
 <!--<a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/></a>-->
 </div>
 
