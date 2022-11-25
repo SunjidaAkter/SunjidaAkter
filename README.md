@@ -77,7 +77,7 @@
 ![snake gif](https://github.com/SunjidaAkter/SunjidaAkter/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
  -->
  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)c
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
