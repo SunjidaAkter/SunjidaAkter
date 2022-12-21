@@ -78,7 +78,6 @@
  -->
  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
