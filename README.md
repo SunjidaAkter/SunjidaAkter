@@ -16,6 +16,7 @@
  ✔ I focus on 3 things on every project: Communication, Quality, and Support. </br>
 <img src="https://giphy.com/embed/qEqiI3Oq7vBkoE236M" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-codingspace-qEqiI3Oq7vBkoE236M">via GIPHY</a></p>
  -->
+ 
 <!--<img src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200">
 <img  src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/>-->
 <!--<div><img  src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></div>
