@@ -9,7 +9,6 @@
 **SunjidaAkter** is ✨ _special_ ✨</br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SunjidaAkter)
 <!-- ## Strong points :
-
  ✔ I like to do web coding, fixing problem, and designing websites. </br>
  ✔ I always learn new things about Web Dev regularly as trends go on. </br>
  ✔ My coding is pixel perfect and also responsive, full, and fresh hand code. </br>
