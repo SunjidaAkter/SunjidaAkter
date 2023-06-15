@@ -26,14 +26,14 @@
 <!--<a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/></a>-->
 </div>
 
- - 🔭 I’m currently working on an Ecommerce Project
- - 🌱 I’m currently learning Data Structure & Algorithm
+<!--  - 🔭 I’m currently working on an Ecommerce Project -->
+<!--  - 🌱 I’m currently learning Data Structure & Algorithm -->
 <!--  - 👯 I’m looking to collaborate with other Developers -->
 <!--  - 🤔 I’m looking for help with Problem Solving -->
-<!--  - 💬 Ask me about Web Development -->
+ - 💬 Ask me about Web Development
  - 📫 How to reach me: **sanjidabintesayid7@gmail.com**
-<!--  - ⚡ Fun fact: I love to sleep on my computer desk -->
- - 😄 Pronouns: She/Her</br>
+ - ⚡ Fun fact: I love to sleep on my computer desk
+<!--  - 😄 Pronouns: She/Her</br> -->
 <!--  [<img src="https://komarev.com/ghpvc/?username=SunjidaAkter&label=Profile%20views&color=0e75b6&style=flat" alt="Sunjida" >](https://github.com/SunjidaAkter)</br> -->
 
 ## :mailbox: Reach me out
