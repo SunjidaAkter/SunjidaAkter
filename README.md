@@ -11,10 +11,10 @@
 
 ## :eyes: Some Special Facts<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+<!--  - 🤔 I’m looking for help with Problem Solving -->
  - 🔭 I’m currently spending time in problem solving
  - 🌱 I’m currently learning Data Structure & Algorithm
  - 👯 I’m looking to collaborate with other Developers
-<!--  - 🤔 I’m looking for help with Problem Solving -->
  - 💬 Ask me about Backend Development
  - 📫 How to reach me: **sanjidabintesayid7@gmail.com**
  - ⚡ Fun fact: I love to sleep on my computer desk
