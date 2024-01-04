@@ -22,7 +22,7 @@
 <!--  [<img src="https://komarev.com/ghpvc/?username=SunjidaAkter&label=Profile%20views&color=0e75b6&style=flat" alt="Sunjida" >](https://github.com/SunjidaAkter)</br> -->
 </div>
 
-<div align="center">
+
 ## :mailbox: Reach me out
 <br>
 <div align="center">
@@ -32,7 +32,6 @@
 <a href="https://www.instagram.com/sunjidaaktermonika/?next=%2F"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'></a>
 <a href="https://twitter.com/Sunjida7777"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='50'></a>
 <a href="https://magnificent-frangollo-5e9566.netlify.app/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='50'></a>
-</div>
 </div>
 
 ## :computer: Technologies that I know
