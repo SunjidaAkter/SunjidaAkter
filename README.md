@@ -9,23 +9,7 @@
 **SunjidaAkter** is ✨ _special_ ✨</br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SunjidaAkter)
 
-<!-- ## Strong points :
- ✔ I like to do web coding, fixing problem, and designing websites. </br>
- ✔ I always learn new things about Web Dev regularly as trends go on. </br>
- ✔ My coding is pixel perfect and also responsive, full, and fresh hand code. </br>
- ✔ I focus on 3 things on every project: Communication, Quality, and Support. </br>
-<img src="https://giphy.com/embed/qEqiI3Oq7vBkoE236M" width="480" height="96" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-coding-coder-codingspace-qEqiI3Oq7vBkoE236M">via GIPHY</a></p>
- -->
-<!--<img src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200">
-<img  src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/>-->
-<!--<div><img  src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></div>
-<div><img  src="https://i.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.webp"  alt="Sunjida Akter"/></div>-->
 ## :eyes: Some Special Facts<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-<div align="left">
-<!--  <a><img align="right" src="https://i.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.webp" width="200" alt="Sunjida Akter"/></a> -->
-<!--<a href="https://app.daily.dev/mir"><img align="right" src="https://i.giphy.com/media/emGDBYPZ2mVrsS1biZ/200w.webp" width="200" alt="Sunjida Akter"/></a>-->
-</div>
 
 <!--  - 🔭 I’m currently working on an Ecommerce Project -->
 <!--  - 🌱 I’m currently learning Data Structure & Algorithm -->
@@ -38,10 +22,9 @@
 <!--  [<img src="https://komarev.com/ghpvc/?username=SunjidaAkter&label=Profile%20views&color=0e75b6&style=flat" alt="Sunjida" >](https://github.com/SunjidaAkter)</br> -->
 </div>
 
-</br>
-</br>
+<div align="center">
 ## :mailbox: Reach me out
-</br>
+<br>
 <div align="center">
 <a href="https://github.com/SunjidaAkter"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'/></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanjida-akter-6804bb215//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'></a>
@@ -49,6 +32,7 @@
 <a href="https://www.instagram.com/sunjidaaktermonika/?next=%2F"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'></a>
 <a href="https://twitter.com/Sunjida7777"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='50'></a>
 <a href="https://magnificent-frangollo-5e9566.netlify.app/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='50'></a>
+</div>
 </div>
 
 ## :computer: Technologies that I know
