@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt0ajYxbmtvdGZ3dTh6cnpjYWFuenEzdGUza3FndmtrN2o1eDR3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2HuVpmuQhK3nu2vfz/giphy.gif" height="450" alt="peace" />
 <div align="left">
 <!-- <a href="https://app.daily.dev/mir"><!--<img  src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200" alt="Sunjida Akter"/></a>-->
-<!--  <a href="https://app.daily.dev/mir"><!--<img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></a>--> 
+<!--  <a href="https://app.daily.dev/mir"><!--<img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200"  alt="Sunjida Akter"/></a>--> 
 
 ## Hi there 👋
 
