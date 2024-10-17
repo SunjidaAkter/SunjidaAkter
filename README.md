@@ -18,8 +18,8 @@
  - ⚡ Fun fact: I love to sleep on my computer desk
  - 👩🏽 Pronouns: She/Her
  - 📖 Book Worm
-<!--  [<img src="https://komarev.com/ghpvc/?username=SunjidaAkter&label=Profile%20views&color=0e75b6&style=flat" alt="Sunjida" >](https://github.com/SunjidaAkter)</br> -->
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt0ajYxbmtvdGZ3dTh6cnpjYWFuenEzdGUza3FndmtrN2o1eDR3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2HuVpmuQhK3nu2vfz/giphy.gif" height="450" alt="peace" />
+<!-- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt0ajYxbmtvdGZ3dTh6cnpjYWFuenEzdGUza3FndmtrN2o1eDR3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2HuVpmuQhK3nu2vfz/giphy.gif" height="450" alt="peace" /> [<img src="https://komarev.com/ghpvc/?username=SunjidaAkter&label=Profile%20views&color=0e75b6&style=flat" alt="Sunjida" >](https://github.com/SunjidaAkter)</br> -->
+
 </div>
 
 </br>
