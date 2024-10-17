@@ -1,4 +1,7 @@
-<img align="center" src="https://i.ibb.co.com/bXQzMfH/Margarita-Perez-1.png" width="80%" alt="peace" />
+<div align="center"  width="100%" >
+ 
+<img  src="https://i.ibb.co.com/bXQzMfH/Margarita-Perez-1.png" alt="peace" />
+</div>
 <div align="left">
 <!-- <a  href="https://app.daily.dev/mir"><!--<img src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200" alt="Sunjida Akter"/></a>-->
 <!-- <a href="https://app.daily.dev/mir"> <!--<img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></a>--> 
