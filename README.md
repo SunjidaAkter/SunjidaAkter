@@ -9,6 +9,7 @@
 ## Hi there 👋
 
 ✨**Hello, I’m Sunjida Akter from Bangladesh, a dedicated and passionate Web Developer with a strong foundation in MERN Stack development and professional experience in Indian and U.S.-based software firms. While I began my journey specializing in building dynamic, responsive web applications in MERN Stack, I am now actively exploring competitive programming, Data Structures and Algorithms (DSA), and backend development using Django(Python-based web framework) with SQL.** ✨</br>
+</br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SunjidaAkter)
 
 ## :eyes: Some Special Facts<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
