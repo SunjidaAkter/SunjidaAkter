@@ -13,12 +13,11 @@
 
 ## :eyes: Some Special Facts<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
- - 🔭 I’m currently spending time in problem solving
+ - 🔭 I’m currently spending time in competitive programming
  - 🌱 I’m currently learning Data Structure & Algorithm
  - 👯 I’m looking to collaborate with other Developers
- - 💬 Ask me about Backend Development
+ - 💬 Ask me about Django Development
  - 📫 How to reach me: **sanjidabintesayid7@gmail.com**
- - ⚡ Fun fact: I love to sleep on my computer desk
  - 👩🏽 Pronouns: She/Her
  - 📖 Book Worm
 <!--  [<img src="https://komarev.com/ghpvc/?username=SunjidaAkter&label=Profile%20views&color=0e75b6&style=flat" alt="Sunjida" >](https://github.com/SunjidaAkter)</br> -->
