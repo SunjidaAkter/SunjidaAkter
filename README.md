@@ -43,25 +43,25 @@
 **Backend**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
+    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="65"/>
 </a>
 
 **Frontend**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="45"/>
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="65"/>
 </a>
 
 **Languages**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="45"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="65"/>
 </a>
 
 **Tools**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,neovim,firebase,linux,figma" height="45"/>
+    <img src="https://skillicons.dev/icons?i=git,firebase,figma" height="65"/>
 </a>
 
 </div>
