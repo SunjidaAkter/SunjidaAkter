@@ -87,7 +87,7 @@
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&theme=transparent&icon_color=A6C7B6&text_color=467E62&title_color=A6C7B6&dates=467E62&border_color=A6C7B6) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true&theme=transparent&icon_color=A6C7B6&text_color=467E62&title_color=A6C7B6&dates=467E62&border_color=A6C7B6) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SunjidaAkter&show_icons=true&count_private=true&text_color=467E62&theme=transparent&sideNums=A6C7B6&sideLabels=467E62&currStreakNum=A6C7B6&dates=467E62&ring=FB8C00&fire=FB8C00&border=A6C7B6&currStreakLabel=A6C7B6) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SunjidaAkter&show_icons=true&count_private=true&text_color=467E62&theme=transparent&sideNums=A6C7B6&sideLabels=467E62&currStreakNum=A6C7B6&dates=467E62&ring=FB8C00&fire=FB8C00&border=A6C7B6&currStreakLabel=A6C7B6) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&theme=transparent&icon_color=A6C7B6&text_color=467E62&title_color=A6C7B6&dates=467E62&border_color=A6C7B6) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true&theme=transparent&icon_color=A6C7B6&text_color=467E62&title_color=A6C7B6&dates=467E62&border_color=A6C7B6) |
 
 
 
