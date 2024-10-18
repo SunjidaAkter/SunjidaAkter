@@ -1,6 +1,6 @@
 <div align="center"  width="100%" >
  
-<img  src="https://i.ibb.co.com/bXQzMfH/Margarita-Perez-1.png" alt="peace" />
+<img width="100%" src="https://i.ibb.co.com/bXQzMfH/Margarita-Perez-1.png" alt="peace" />
 </div>
 <div align="left">
 <!-- <a  href="https://app.daily.dev/mir"><!--<img src="https://media3.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="200" alt="Sunjida Akter"/></a>-->
