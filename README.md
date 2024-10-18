@@ -69,7 +69,7 @@
 ## :chart_with_upwards_trend: Current Stats   
 </br>
 <p align="center">
- <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunjidaAkter&show_icons=true&count_private=true&text_color=000000&bg_color=FFFFFF&sideNums=000000&sideLabels=467E62&currStreakNum=9A9A9A&dates=6E6E6E&" />
+ <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunjidaAkter&show_icons=true&count_private=true&text_color=000000&bg_color=FFFFFF&sideNums=000000467E62&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E&ring=467E62&fire=467E62&border=9A9A9A" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true&bg_color=0D1117&icon_color=00DD4C&text_color=FFFFFF&title_color=212830&dates=6E6E6E" />
  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&bg_color=0D1117&icon_color=00DD4C&text_color=FFFFFF&title_color=00DD4C&dates=6E6E6E" />
  
