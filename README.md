@@ -31,12 +31,9 @@
 ## :mailbox: Reach me out
 <br>
 <div align="center">
-<a href="https://github.com/SunjidaAkter"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'/></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanjida-akter-6804bb215//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'></a>
-<a href="https://www.facebook.com/profile.php?id=100009981699138"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'></a>
-<a href="https://www.instagram.com/sunjidaaktermonika/?next=%2F"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'></a>
-<a href="https://twitter.com/Sunjida7777"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='50'></a>
-<a href="https://magnificent-frangollo-5e9566.netlify.app/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='50'></a>
+ 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009981699138) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjidabintesayid)
+
 </div>
 
 ## :computer: Technologies that I know
@@ -72,8 +69,8 @@
 ## :chart_with_upwards_trend: Current Stats   
 </br>
 <p align="center">
- <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunjidaAkter&show_icons=true&count_private=true&theme=soft-green&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true&bg_color=0D1117&icon_color=00DD4C&text_color=FFFFFF&title_color=00DD4C&dates=6E6E6E" />
+ <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunjidaAkter&show_icons=true&count_private=true&text_color=212830&bg_color=FFFFFF&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=467E62&dates=6E6E6E&" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true&bg_color=0D1117&icon_color=00DD4C&text_color=FFFFFF&title_color=212830&dates=6E6E6E" />
  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&bg_color=0D1117&icon_color=00DD4C&text_color=FFFFFF&title_color=00DD4C&dates=6E6E6E" />
  
 </p>
