@@ -41,13 +41,13 @@
 <br>
 <div align="center">
  
-<a href="https://codeforces.com/profile/Sunjida_Akter"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+<a href="https://codeforces.com/profile/Sunjida_Akter"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/467E62/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
-	<a href="https://leetcode.com/u/sanjidabintesayid7/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	<a href="https://leetcode.com/u/sanjidabintesayid7/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/467E62/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
 	<!-- <a href="https://atcoder.jp/users/Marjan"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
 	  &emsp; --> 
-	 <a href="https://www.codechef.com/users/sanjida77"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+	 <a href="https://www.codechef.com/users/sanjida77"><img src="https://img.icons8.com/color/50/467E62/codechef.png" alt="Code Chef" width=6%/></a>
 	  &emsp;
 
 </div>
@@ -84,12 +84,12 @@
 
 ## :chart_with_upwards_trend: Current Stats   
 </br>
-<p align="center">
- <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunjidaAkter&show_icons=true&count_private=true&text_color=000000&bg_color=FFFFFF&sideNums=467E62&sideLabels=000000&currStreakNum=467E62&dates=000000&ring=FB8C00&fire=FB8C00&border=467E62&currStreakLabel=467E62" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true&bg_color=FFFFFF&icon_color=467E62&text_color=000000&title_color=467E62&dates=000000&border_color=467E62" />
- <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&bg_color=FFFFFF&icon_color=467E62&text_color=000000&title_color=467E62&dates=000000&border_color=467E62" />
- 
-</p>
+
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&theme=transparent&icon_color=A6C7B6&text_color=467E62&title_color=A6C7B6&dates=467E62&border_color=A6C7B6) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true&theme=transparent&icon_color=A6C7B6&text_color=467E62&title_color=A6C7B6&dates=467E62&border_color=A6C7B6) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SunjidaAkter&show_icons=true&count_private=true&text_color=467E62&theme=transparent&sideNums=A6C7B6&sideLabels=467E62&currStreakNum=A6C7B6&dates=467E62&ring=FB8C00&fire=FB8C00&border=A6C7B6&currStreakLabel=A6C7B6) |
+
+
 
 <!-- ![snake gif](https://github.com/SunjidaAkter/SunjidaAkter/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake gif](https://github.com/SunjidaAkter/SunjidaAkter/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
