@@ -70,7 +70,7 @@
 </br>
 <p align="center">
  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunjidaAkter&show_icons=true&count_private=true&text_color=000000&bg_color=FFFFFF&sideNums=467E62&sideLabels=000000&currStreakNum=467E62&dates=000000&ring=FB8C00&fire=FB8C00&border=9A9A9A&currStreakLabel=467E62" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true&bg_color=0D1117&icon_color=00DD4C&text_color=FFFFFF&title_color=212830&dates=6E6E6E" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SunjidaAkter&show_icons=true&count_private=true&bg_color=FFFFFF&icon_color=467E62&text_color=000000&title_color=467E62&dates=000000&border=9A9A9A" />
  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunjidaAkter&layout=compact&bg_color=0D1117&icon_color=00DD4C&text_color=FFFFFF&title_color=00DD4C&dates=6E6E6E" />
  
 </p>
