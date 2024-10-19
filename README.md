@@ -56,20 +56,13 @@
 </br>
 
 <div align="center">
-	
+
 | Backend | Frontend | Languages | Tools |
 |:---:|:---:|:---:|:---:|
-| <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
-</a> | <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
-</a> | <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
-</a> | <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
-</a> |
+| <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="35"/> | <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="35"/> | <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="35"/> | <img src="https://skillicons.dev/icons?i=git,firebase,figma,vscode" height="35"/> |
 
 </div>
+
 
 
 <div align="center">
