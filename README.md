@@ -61,17 +61,13 @@
 |:---:|:---:|:---:|:---:|
 | <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
-</a>
- | <a href="https://skillicons.dev">
+</a> | <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
-</a>
- | <a href="https://skillicons.dev">
+</a> | <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
-</a>
- | <a href="https://skillicons.dev">
+</a> | <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
-</a>
- |
+</a> |
 
 </div>
 
