@@ -59,39 +59,12 @@
 
 | Backend | Frontend | Languages | Tools |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="35"/> | <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="35"/> | <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="35"/> | <img src="https://skillicons.dev/icons?i=git,firebase,figma,vscode" height="35"/> |
+| <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/> | <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="45"/> | <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="45"/> | <img src="https://skillicons.dev/icons?i=git,firebase,figma,vscode" height="45"/> |
 
 </div>
 
 
 
-<div align="center">
-
-**Backend**
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
-</a>
-
-**Frontend**
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="45"/>
-</a>
-
-**Languages**
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="45"/>
-</a>
-
-**Tools**
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,firebase,figma" height="45"/>
-</a>
-
-</div>
 
 ## :chart_with_upwards_trend: Current Stats   
 </br>
