@@ -53,7 +53,29 @@
 </div>
 
 ## :computer: Technologies that I know
-<br>
+</br>
+
+<div align="center">
+	
+| Backend | Frontend | Languages | Tools |
+|:---:|:---:|:---:|:---:|
+| <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
+</a>
+ | <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
+</a>
+ | <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
+</a>
+ | <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
+</a>
+ |
+
+</div>
+
+
 <div align="center">
 
 **Backend**
