@@ -59,7 +59,7 @@
 
 | Backend | Frontend | Languages | Tools |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/> | <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="45"/> | <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="45"/> | <img src="https://skillicons.dev/icons?i=git,firebase,figma,vscode" height="45"/> |
+| <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="40"/> | <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="40"/> | <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="40"/> | <img src="https://skillicons.dev/icons?i=git,firebase,figma,vscode" height="40"/> |
 
 </div>
 
