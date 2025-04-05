@@ -1,6 +1,6 @@
 <div align="center"  width="100%" >
  
-<img width="100%" src="https://i.ibb.co.com/RByTvrw/Black-Modern-Vlogger-You-Tube-Banner-3.png" alt="peace" />
+<img width="100%" src="" alt="peace" />
 </div>
 <div align="left">
 <!-- <a	
