@@ -14,8 +14,8 @@
 
  - 🔭 I’m currently spending time in competitive programming
  - 🌱 I’m currently learning Data Structure & Algorithm
- - 👯 I’m looking to collaborate with other Developers
- - 💬 Ask me about Django Development
+ - 👯 I’m looking to collaborate with other Competitive Programmers
+ - 💬 Ask me about CP
  - 📫 How to reach me: **sanjidabintesayid7@gmail.com**
  - 👩🏽 Pronouns: She/Her
  - 📖 Book Worm
