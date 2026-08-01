@@ -7,7 +7,7 @@
 <!-- <a href="https://app .daily.dev/mir"><!--<img align="right" src="https://i.giphy.com/media/SUcApSWjPwQMARvcM8/200w.webp" width="200" alt="Sunjida Akter"/></a>--> 
 
 ## Hi there 👋
-
+</br>
 </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SunjidaAkter)
 
